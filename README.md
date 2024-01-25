@@ -7,7 +7,7 @@ University of Edinburgh
 
 **Please cite as**: 
 
-A.L.N. Ngambia, O. Masek, V. Erastova, _Development of biochar molecular models with controlled porosity_ [https://doi.org/10.48550/....](https://doi.org/10.48550/....)
+A.L.N. Ngambia, O. Masek, V. Erastova, _Development of biochar molecular models with controlled porosity._ [https://doi.org/10.48550/....](https://doi.org/10.48550/....)
 
 
 ---
@@ -47,7 +47,7 @@ For more information see the following publications.
 
 - R. Wood, O. Masek, V. Erastova, _Biochars at the molecular level. Part 2 -- Development of realistic molecular models of biochars._ [https://doi.org/10.48550/arXiv.2303.09907](https://doi.org/10.48550/arXiv.2303.09907)
 
-- A.L.N. Ngambia, O. Masek, V. Erastova, _Development of biochar molecular models with controlled porosity_ [https://doi.org/10.48550/....](https://doi.org/10.48550/....)
+- A.L.N. Ngambia, O. Masek, V. Erastova, _Development of biochar molecular models with controlled porosity._ [https://doi.org/10.48550/....](https://doi.org/10.48550/....)
 
 
 
