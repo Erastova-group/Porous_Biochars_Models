@@ -11,7 +11,8 @@ A.L.N. Ngambia, O. Masek, V. Erastova, _Development of biochar molecular models 
 
 
 ---
-Molecular models of bulk and surface-exposed woody biochars produced at 600ºC - 650ºC highest treatment temperatures.
+
+Molecular models of porous woody biochars produced at 600ºC - 650ºC highest treatment temperatures.
 
 `Model_I` - BCMA model, using uniform sizes of building blocks 
 
@@ -34,9 +35,7 @@ The folders contain all files necessary for simulation with GROMACS:
 
 
 `oplsaa.ff` - In our simulations we used used OPLS-AA force field. 
-To generate a topology files, please follow instructions on http://zarbi.chem.yale.edu/ligpargen and http://polypargen.com.
-
-
+To generate topology files, please follow the instructions on http://zarbi.chem.yale.edu/ligpargen and http://polypargen.com.
 
 
 -----
