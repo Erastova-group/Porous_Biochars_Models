@@ -18,13 +18,13 @@ Molecular models of porous woody biochars produced at 600ºC - 650ºC highest tr
 
 `Model_II` - BCMB model, using a variety of sizes of building blocks 
 
-`Model_I_V4` - BCMA model with 
+`Model_I_V4` - BCMA model simulated with virtual atom V4
 
-`Model_I_V14` - ...
+`Model_I_V14` - BCMA model simulated with virtual atom V14
 
-`Model_II_V4` - ...
+`Model_II_V4` - BCMB model simulated with virtual atom V4
 
-`Model_II_V14` - ...
+`Model_II_V14` - BCMB model simulated with virtual atom V14
 
 
 The folders contain all files necessary for simulation with GROMACS:
