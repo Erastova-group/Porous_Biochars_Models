@@ -39,7 +39,7 @@ To generate topology files, please follow the instructions on http://zarbi.chem.
 
 
 -----
-This work is the development from our previous work [github.com/Erastova-group/Biochar_MolecularModels](https://github.com/Erastova-group/Biochar_MolecularModels)
+For more information on the set up of biochars, inclusing the experimental data and molecular building blocks, please see: [github.com/Erastova-group/Biochar_MolecularModels](https://github.com/Erastova-group/Biochar_MolecularModels)
 
 For more information see the following publications.
 
