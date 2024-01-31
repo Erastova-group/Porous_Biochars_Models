@@ -66,7 +66,7 @@ B_14              280
 8G11C             120 
 ```
 
-**--> To model a surface-exposed biochar, extend the simulation box of a bulk system in one of the directions (typically z-direction) by creating an empty space above/below the layer of biochar. Make sure to run the simulation with semi-isotropic pressure coupling to allow de-coupling of z-direction from the xy-plane. **
+**--> To model a surface-exposed biochar, extend the simulation box of a bulk system in one of the directions (typically z-direction) by creating an empty space above/below the layer of biochar. Make sure to run the simulation with semi-isotropic pressure coupling to allow de-coupling of z-direction from the xy-plane.**
 
 
 
