@@ -1,4 +1,4 @@
-**Biochar Molecular Models**
+# Biochar Molecular Models with Microporocity
 
 By Audrey Ngambia (a.l.noumbissi-ngambia@sms.ed.ac.uk) and Valentina Erastova (valentina.erastova@ed.ac.uk)
 
