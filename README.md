@@ -5,8 +5,10 @@ University of Edinburgh
 
 
 **Please cite as**: 
+Ngambia A, Mašek O & Erastova V. *Development of biochar molecular models with controlled porosity.* Biomass and Bioenergy 184, 107199 (2024). DOI: [10.1016/j.biombioe.2024.107199](https://doi.org/10.1016/j.biombioe.2024.107199)
 
-A. Ngambia, O. Masek, V. Erastova, *Development of biochar molecular models with controlled porosity.* [https://doi.org/10.48550/....](https://doi.org/10.48550/....)
+
+If you would like **to build your own biochar model** -- please follow our [Biochar Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)
 
 ---
 
@@ -81,14 +83,14 @@ The data collection of experimental measures and a selection of molecular buildi
 
 For more information on the set-up of biochar molecular models, please see the following publications.
 
-- R. Wood, O. Masek, V. Erastova, *Biochars at the molecular level. Part 1 -- Insights into the molecular structures within biochars.* [https://doi.org/10.48550/arXiv.2303.09661](https://doi.org/10.48550/arXiv.2303.09661)
+3. Wood R, Mašek O & Erastova V. *Developing a molecular-level understanding of biochar materials using public characterization data.* Cell Reports Physical Science 5(7), 102036 (2024). DOI: [10.1016/j.xcrp.2024.102036](https://doi.org/10.1016/j.xcrp.2024.102036)
 
-- R. Wood, O. Masek, V. Erastova, *Biochars at the molecular level. Part 2 -- Development of realistic molecular models of biochars.* [https://doi.org/10.48550/arXiv.2303.09907](https://doi.org/10.48550/arXiv.2303.09907)
+4. Wood R, Mašek O & Erastova V. *Developing realistic molecular models of biochars.* Cell Reports Physical Science 5(7), 102037 (2024). DOI: [10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037)
 
-- A. Ngambia, O. Masek, V. Erastova, *Development of biochar molecular models with controlled porosity.* [https://doi.org/10.48550/....](https://doi.org/10.48550/....)
+5. Ngambia A, Mašek O & Erastova V. *Development of biochar molecular models with controlled porosity.* Biomass and Bioenergy 184, 107199 (2024). DOI: [10.1016/j.biombioe.2024.107199](https://doi.org/10.1016/j.biombioe.2024.107199)
 
 
-
+Or follow our [Biochar Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)
 
 
 
